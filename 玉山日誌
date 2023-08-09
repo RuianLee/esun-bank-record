@@ -88,4 +88,11 @@ https://ithelp.ithome.com.tw/articles/10193164
 https://developers.google.com/apps-script/reference/url-fetch/http-response
 目前想到一個，可以透過 fb 追蹤社團，如果有出現想要買的東西就可以直接留言 或是 可以追蹤自己在社團裡面發的文觀看量與按讚量
 又想到一個，我可以接觸很多各行各業的然後把需求列出來，打造可以自動化的商品
-
+2.------------------------------------
+google app script 資源
+trigger:
+https://levelup.gitconnected.com/mastering-triggers-and-automate-workflows-in-google-apps-script-b6d76d1d12b0
+How to create your own workflow using chatGPT:
+https://sheetaki.com/chatgpt-to-automate-workflow-in-google-sheets/
+如何透過 GAS 建立一個 workflow:
+https://techstreams.medium.com/g-suite-solutions-apps-script-powered-workflow-automation-4cb715ea5d0b
