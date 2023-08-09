@@ -81,5 +81,11 @@ It is not worthwhile creating your own; just maintain a list of links/references
 2023/08/08 ---------------------------
 可以加在家裡的 vscode 上面
 https://ithelp.ithome.com.tw/articles/10211005
-回去可以試看看，把 api 包起來用的跟玉山前端一樣
+1.------------------------------------
+回去可以試看看，把 api 包起來用的跟玉山前端一樣(搭配team+裡面的文件)，這樣之後要打 api 就方便多了
+https://www.labnol.org/tech-courses-200403
+https://ithelp.ithome.com.tw/articles/10193164
+https://developers.google.com/apps-script/reference/url-fetch/http-response
+目前想到一個，可以透過 fb 追蹤社團，如果有出現想要買的東西就可以直接留言 或是 可以追蹤自己在社團裡面發的文觀看量與按讚量
+又想到一個，我可以接觸很多各行各業的然後把需求列出來，打造可以自動化的商品
 
