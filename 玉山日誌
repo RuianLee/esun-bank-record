@@ -102,3 +102,14 @@ https://github.com/labnol/apps-script-starter
 https://subjectguides.york.ac.uk/coding/apps-script
 一個專案的誕生:
 https://www.freecodecamp.org/news/how-to-come-up-with-coding-project-ideas/
+2023/08/10 ---------------------------
+如何練習 layout?
+https://flexboxfroggy.com/   練習 flexbox的網站
+https://www.reddit.com/r/Frontend/comments/t786gs/how_to_get_confident_in_css_layouts/     how to be confident in layout?
+------------------------------------
+可以透過 notion 的 web cliper 功能，把好用的網站或是好文章觀念的網站與資源整合出來，幫助你在下次可以更好引用與尋找
+EX: 我找了很多關於 GAS and Google appSheet的資源，我希望做完 美容小專案之後，可以把後續的相關資源保存下來
+----雖然沒有要繼續往 Google 周邊挖，但我希望可以再需要類似工具時，還是可以實作下來(真正變成我的 Tech stack)
+------------------------------------
+練習前端: 可以先從把網站的 layout 建出來開始layout，慢慢把習慣建立起來
+https://gridbyexample.com/
