@@ -127,9 +127,12 @@ https://dribbble.com/shots/21412313-X-Leap-website-for-blockchain-based-payment-
 3. 如果要練習的話，目前的技能堆比較符合 1.的部分，2.的部分還要找設計師或是去網路上找圖檔來練習 => 先練習如何快速建立系統，慢慢練習如何實作設計圖
 4. https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/ => 這邊文章充分講到關於前端人員該注意的部分
 5. ui-library for 內部系統快速建立 + 快速完成 demo , 自建構 for product and 客製化網站
+6. 如果發現 vanilla 的部分學得差不多(大概知道怎麼運作的話)，可以慢慢回到vue的 ui-library 來做產品
+7. 若是這個產品很喜歡，想要有跟客製化的設計，就用 vue的 radix-vue 做一些比較客製化的設定
 自建構的練習方式: 
 1. 在基礎上面努力練習 html css
 2. 去網站上面找簡單的設計來 clone
 3. 慢慢建構屬於自己的替代元件 => 讓我們可以在 ui 元件沒有支援的情況下，建立符合需求的元件
+
 
 
