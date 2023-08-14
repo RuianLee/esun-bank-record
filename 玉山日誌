@@ -121,3 +121,15 @@ https://github.com/practical-tutorials/project-based-learning
 https://github.com/bradtraversy/50projects50days
 https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 https://dribbble.com/shots/21412313-X-Leap-website-for-blockchain-based-payment-platform 挖靠，超酷的啦
+2023/08/14 ---------------------------
+1. 內部系統可以透過 ui-library + 後端，快速建立內部系統
+2. 如果是對外的網頁或商業模型，則是由 設計師來畫出設計圖並由前端工程師時做出來，所以工作內容不太一樣
+3. 如果要練習的話，目前的技能堆比較符合 1.的部分，2.的部分還要找設計師或是去網路上找圖檔來練習 => 先練習如何快速建立系統，慢慢練習如何實作設計圖
+4. https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/ => 這邊文章充分講到關於前端人員該注意的部分
+5. ui-library for 內部系統快速建立 + 快速完成 demo , 自建構 for product and 客製化網站
+自建構的練習方式: 
+1. 在基礎上面努力練習 html css
+2. 去網站上面找簡單的設計來 clone
+3. 慢慢建構屬於自己的替代元件 => 讓我們可以在 ui 元件沒有支援的情況下，建立符合需求的元件
+
+
