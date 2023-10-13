@@ -2,3 +2,26 @@ https://medium.com/appxtech/java-serializable%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%9
 https://blog.csdn.net/wenph2008/article/details/105967048
 https://en.wikipedia.org/wiki/Nullary_constructor
 https://stackoverflow.com/questions/3295496/what-is-a-javabean-exactly
+--------------------------------------------------------------------------
+# POJO(Plain Old Java Object)
+。不具任何特殊角色、不繼承、不實現任何其他Java架構的Class或Interface
+。一個不受限制的Java物件
+
+# 實際應用上我們會分別把它轉換為PO、DTO、VO。
+POJO持久化:PO
+POJO傳輸過程:DTO
+POJO用於表示:VO
+他們的功能都有一個相對的命名
+
+# POJO就是一個Java物件，包含
+。 自己的屬性(private)
+。 提取或儲存這些屬性的method(get、set)
+而其他的Object也是以POJO為基準開始延伸
+
+# 膠水程式碼???
+# Serializable
+1. 所有屬性是 private  => 防止使用者，直接使用變數不使用開發人員的接口，導致向後兼容困難
+2. 提供的預設建構方法  => 讓使用者能夠使用相同接口，實現兼容的目的
+3. 提供 getter and setter
+4. 實作 序列化的接口(介面)
+--------------------------------------------------------------------------
