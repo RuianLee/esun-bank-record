@@ -1,0 +1,49 @@
+2023-10-16
+===
+### 今天要做的事情
+
+- 做完衛生訓練
+- 把 RTDTA 逆完
+- 做上禮拜五下班補登
+---
+### 今天的做事紀錄
+- 早上把 P-39 交易回覆碼的部分寫完了
+- UJ 學長來找我，說欄位有分 MUST 跟 OPTION，傳入跟回傳也有差別，考古容易考到，沒有意義的程式碼，要再討論一下做這件事情的成效在哪裡
+- 今天跟重勳學長討論完之後，以後看文件要有幾個重點
+  - 組件本身的性質是甚麼樣子，看著設計時有沒有感覺超級難寫或是可以更簡單
+  - 對於功能上面的拆分，是不是有過於耦合的部分，記得拆乾淨
+  - 畫面的重點，在於程式好不好寫能不能簡單化，若努力一點可以增加體驗再做
+  - 我以為只有程式技術面的問題，對於組件的場景拆分跟複用性根本沒有多加考慮
+
+---
+### 今天看到有興趣的題目
+#### 早上有刷到 Spring boot 後端的產 excel 功能 ==============<br>
+  - https://juejin.cn/post/7023180836354654245 <br>
+  - https://juejin.cn/post/7125567338635591716?from=search-suggest#%E4%BB%80%E4%B9%88%E6%98%AFpoi
+
+
+```
+easyExcel => better
+EasyPoi =>  EasyPoi佔記憶體太多
+```
+#### 早上看到一些關於 MVVM 的東西蠻有意思的，可以研究一下 ==============<br>
+    - https://stackoverflow.com/questions/3424275/mvvm-for-web-development
+  - https://medium.com/neptune-coding/vue-js-mvvm-%E7%9A%84%E6%A6%82%E5%BF%B5-983bdc5da207
+![Alt text](image-7.png)
+```
+我們可以透過 view 上面已經設定過的按鈕(被viewModal綁定過 Modal的)，來觸發動作，按鈕按下去後會發生下面兩件事情(會分兩部分解釋)。
+1. view 到 viewModal 找到綁定的Modal方法
+2. Modal改變 data(被viewModal綁定到 view 的)
+3. data 因為 viewModal 有做 data binding，驅動更新動作
+4. view 完成 data binding 的資料更新
+```
+##### 問題一
+![Alt text](image-8.png)
+##### 問題二
+![Alt text](image-9.png)
+
+#### 這個頁面好像可以幫我們開發拉密
+- 卡片遊戲的開發經驗談<br>
+https://www.xiejingyang.com/category/font-end/
+- Vue 的拖曳特效<br>
+https://juejin.cn/post/7290169619511377976
